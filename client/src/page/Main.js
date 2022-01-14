@@ -1,6 +1,10 @@
+import Footer from '../components/Footer.js';
+
 const Main = () => {
 	return (
-		<></>
+		<>
+		<Footer/>
+		</>
 	);
 }
 
